@@ -1,0 +1,92 @@
+object MainFormPos: TMainFormPos
+  Left = 256
+  Height = 349
+  Top = 145
+  Width = 277
+  Caption = 'MainFormPos'
+  ClientHeight = 349
+  ClientWidth = 277
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+  object ListBox1: TListBox
+    Left = 16
+    Height = 184
+    Top = 64
+    Width = 248
+    ItemHeight = 0
+    TabOrder = 0
+  end
+  object AddItemBtn: TButton
+    Left = 16
+    Height = 25
+    Top = 24
+    Width = 91
+    Caption = 'Tambah Item'
+    OnClick = AddItemBtnClick
+    TabOrder = 1
+  end
+  object CheckoutBtn: TButton
+    Left = 112
+    Height = 25
+    Top = 24
+    Width = 75
+    Caption = 'Checkout'
+    OnClick = CheckoutBtnClick
+    TabOrder = 2
+  end
+  object PrintTax: TButton
+    Left = 192
+    Height = 25
+    Top = 24
+    Width = 75
+    Caption = 'Cetak'
+    OnClick = PrintTaxClick
+    TabOrder = 3
+  end
+  object lblTotal: TLabel
+    Left = 24
+    Height = 25
+    Top = 256
+    Width = 51
+    Caption = 'Total :'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object edtPayment: TEdit
+    Left = 80
+    Height = 23
+    Top = 288
+    Width = 80
+    TabOrder = 4
+  end
+  object lblChange: TLabel
+    Left = 24
+    Height = 21
+    Top = 312
+    Width = 80
+    Caption = 'Kembalian :'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label1: TLabel
+    Left = 24
+    Height = 21
+    Top = 288
+    Width = 46
+    Caption = 'Bayar :'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+end
