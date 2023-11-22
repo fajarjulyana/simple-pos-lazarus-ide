@@ -25,7 +25,7 @@ Ini adalah sistem Point of Sale (POS) sederhana yang diimplementasikan menggunak
 
 2. **Buka proyek di Lazarus:**
 
-   Buka Lazarus IDE dan pilih "Open Project" dari menu File. Navigasikan ke repositori yang telah di-klon dan buka file proyek (`main.lpi`).
+   Buka Lazarus IDE dan pilih "Open Project" dari menu File. Navigasikan ke repositori yang telah di-klon dan buka file proyek (`pos.lpi`).
 
 3. **Jalankan aplikasi:**
 
