@@ -54,4 +54,4 @@ Silakan berkontribusi pada pengembangan sistem POS ini dengan membuat isu atau m
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detailnya.
+Proyek ini dilisensikan di bawah Lisensi GPL - lihat file [LICENSE](LICENSE) untuk detailnya.
