@@ -33,7 +33,7 @@ Ini adalah sistem Point of Sale (POS) sederhana yang diimplementasikan menggunak
 
 4. **Menambahkan item ke penjualan:**
 
-   - Klik tombol "Add Item".
+   - Klik tombol "Tambah Item".
    - Masukkan nama dan harga item ketika diminta.
 
 5. **Checkout:**
@@ -44,7 +44,7 @@ Ini adalah sistem Point of Sale (POS) sederhana yang diimplementasikan menggunak
 
 6. **Cetak Struk:**
 
-   - Klik tombol "Print Receipt" untuk menampilkan struk dalam kotak pesan.
+   - Klik tombol "Print" untuk menampilkan struk dalam kotak pesan.
 
 ![Screenshot Aplikasi](capture/capture.PNG)
 
